@@ -1,0 +1,233 @@
+{
+  "lastUpdate": "2026-08-05 08:00:00",
+  "news": [
+    {
+      "title": "欧冠决赛今晚打响 豪门对决见证荣耀",
+      "category": "足球",
+      "source": "ESPN中文",
+      "date": "2026-08-05",
+      "desc": "备受瞩目的欧冠决赛将于北京时间今晚在伊斯坦布尔阿塔图尔克奥林匹克球场进行，两支传统豪门将角逐大耳朵杯，决赛门票早已售罄，全球预计超过5亿观众观看。",
+      "link": "#"
+    },
+    {
+      "title": "NBA总决赛G6天王山 主场球队或登顶",
+      "category": "篮球",
+      "source": "ESPN中文",
+      "date": "2026-08-05",
+      "desc": "NBA总决赛系列赛目前战成3-2，主场球队手握赛点，联盟MVP带领球队有望在主场终结系列赛，球馆外涌入数万球迷见证历史。",
+      "link": "#"
+    },
+    {
+      "title": "温网决赛费德勒vs德约科维奇 对决一触即发",
+      "category": "网球",
+      "source": "ATP中文",
+      "date": "2026-08-04",
+      "desc": "全英俱乐部中心球场将迎来第60次费德决，两位传奇球王此前交手纪录59场，费德勒略占上风，草地赛场谁将捧起挑战者杯拭目以待。",
+      "link": "#"
+    },
+    {
+      "title": "S16英雄联盟全球总决赛开幕 22支战队齐聚",
+      "category": "电竞",
+      "source": "拳头游戏",
+      "date": "2026-08-04",
+      "desc": "第16届英雄联盟全球总决赛在首尔开幕，22支来自全球各赛区的战队争夺召唤师杯，卫冕冠军LPL赛区派出三支种子战队出征。",
+      "link": "#"
+    },
+    {
+      "title": "中超第24轮 争冠队客场告捷巩固优势",
+      "category": "足球",
+      "source": "新浪体育",
+      "date": "2026-08-04",
+      "desc": "中超联赛第24轮结束争夺，领头羊客场2-1险胜对手继续领跑积分榜，多支传统豪门未能赢球，保级形势愈发严峻。",
+      "link": "#"
+    },
+    {
+      "title": "奥运资格赛激战正酣 各国选手全力冲刺",
+      "category": "综合",
+      "source": "新华社体育",
+      "date": "2026-08-03",
+      "desc": "距离2028洛杉矶奥运会仅剩两年，各项目奥运资格赛进入白热化，中国选手在射击、体操、乒乓球等传统强项表现稳定，多项拿到入场券。",
+      "link": "#"
+    },
+    {
+      "title": "KPL夏季赛总决赛 老牌豪门再战新锐战队",
+      "category": "电竞",
+      "source": "王者荣耀赛事",
+      "date": "2026-08-03",
+      "desc": "KPL夏季赛总决赛将于本周日进行，两大夺冠热门会师决赛，MVP之争悬念十足，总决赛门票开售即秒罄。",
+      "link": "#"
+    },
+    {
+      "title": "美网资格赛开打 中国金花三将晋级",
+      "category": "网球",
+      "source": "WTA中文",
+      "date": "2026-08-02",
+      "desc": "2026美国网球公开赛资格赛在纽约开打，三位中国女单选手在第一轮资格赛中全部顺利晋级，离正赛仅一步之遥。",
+      "link": "#"
+    },
+    {
+      "title": "CBA选秀大会 混血前锋当选状元",
+      "category": "篮球",
+      "source": "CBA官网",
+      "date": "2026-08-02",
+      "desc": "2026赛季CBA选秀大会在北京举行，来自NCAA的混血前锋被手握状元签的传统豪门选中，此次选秀共产生60位新秀。",
+      "link": "#"
+    },
+    {
+      "title": "西甲开幕战 卫冕冠军主场大胜迎开门红",
+      "category": "足球",
+      "source": "西甲官网",
+      "date": "2026-08-01",
+      "desc": "2026-27赛季西甲联赛正式拉开战幕，卫冕冠军主场4-1大胜升班马，收获赛季开门红，队内金靴得主独中两元领跑射手榜。",
+      "link": "#"
+    },
+    {
+      "title": "ATP1000罗杰斯杯 纳达尔复出首战告捷",
+      "category": "网球",
+      "source": "ATP Tour",
+      "date": "2026-08-01",
+      "desc": "ATP1000罗杰斯杯正赛开打，养伤三个月的红土之王纳达尔复出首战直落两盘击败对手，下轮将遭遇赛会三号种子。",
+      "link": "#"
+    },
+    {
+      "title": "英超新赛季本周开战 六大豪门争冠格局",
+      "category": "足球",
+      "source": "英超官网",
+      "date": "2026-08-01",
+      "desc": "2026-27赛季英格兰足球超级联赛将于本周末揭幕，传统六大豪门均在夏季转会市场投入重金，新赛季争冠形势扑朔迷离。",
+      "link": "#"
+    }
+  ],
+  "epl": [
+    { "team": "曼城", "played": 38, "win": 30, "draw": 5, "lose": 3, "gf": 95, "ga": 28, "gd": 67, "pts": 95, "form": "WWWDW" },
+    { "team": "阿森纳", "played": 38, "win": 29, "draw": 4, "lose": 5, "gf": 90, "ga": 34, "gd": 56, "pts": 91, "form": "WWWDW" },
+    { "team": "利物浦", "played": 38, "win": 27, "draw": 8, "lose": 3, "gf": 88, "ga": 36, "gd": 52, "pts": 89, "form": "WWDWW" },
+    { "team": "切尔西", "played": 38, "win": 22, "draw": 10, "lose": 6, "gf": 75, "ga": 42, "gd": 33, "pts": 76, "form": "WDWWL" },
+    { "team": "托特纳姆热刺", "played": 38, "win": 20, "draw": 10, "lose": 8, "gf": 68, "ga": 48, "gd": 20, "pts": 70, "form": "WLWDW" },
+    { "team": "曼联", "played": 38, "win": 19, "draw": 8, "lose": 11, "gf": 58, "ga": 48, "gd": 10, "pts": 65, "form": "WDWLW" },
+    { "team": "纽卡斯尔", "played": 38, "win": 18, "draw": 6, "lose": 14, "gf": 62, "ga": 55, "gd": 7, "pts": 60, "form": "LWWDL" },
+    { "team": "阿斯顿维拉", "played": 38, "win": 16, "draw": 10, "lose": 12, "gf": 60, "ga": 56, "gd": 4, "pts": 58, "form": "DWDWL" },
+    { "team": "布莱顿", "played": 38, "win": 16, "draw": 8, "lose": 14, "gf": 55, "ga": 55, "gd": 0, "pts": 56, "form": "WDLDW" },
+    { "team": "西汉姆", "played": 38, "win": 14, "draw": 10, "lose": 14, "gf": 52, "ga": 58, "gd": -6, "pts": 52, "form": "LDWWD" },
+    { "team": "埃弗顿", "played": 38, "win": 9, "draw": 11, "lose": 18, "gf": 40, "ga": 62, "gd": -22, "pts": 38, "form": "LLDWD" },
+    { "team": "卢顿", "played": 38, "win": 5, "draw": 10, "lose": 23, "gf": 38, "ga": 82, "gd": -44, "pts": 25, "form": "LLDLW" },
+    { "team": "谢菲尔德联", "played": 38, "win": 4, "draw": 7, "lose": 27, "gf": 31, "ga": 88, "gd": -57, "pts": 19, "form": "LLLLD" }
+  ],
+  "laliga": [
+    { "team": "皇家马德里", "played": 38, "win": 30, "draw": 4, "lose": 4, "gf": 92, "ga": 28, "gd": 64, "pts": 94, "form": "WWWWW" },
+    { "team": "巴塞罗那", "played": 38, "win": 28, "draw": 6, "lose": 4, "gf": 86, "ga": 32, "gd": 54, "pts": 90, "form": "WWDWW" },
+    { "team": "马德里竞技", "played": 38, "win": 25, "draw": 7, "lose": 6, "gf": 72, "ga": 34, "gd": 38, "pts": 82, "form": "WDWWL" },
+    { "team": "毕尔巴鄂竞技", "played": 38, "win": 22, "draw": 9, "lose": 7, "gf": 62, "ga": 35, "gd": 27, "pts": 75, "form": "WWLWW" },
+    { "team": "皇家社会", "played": 38, "win": 18, "draw": 12, "lose": 8, "gf": 56, "ga": 42, "gd": 14, "pts": 66, "form": "WDWDW" },
+    { "team": "比利亚雷亚尔", "played": 38, "win": 17, "draw": 8, "lose": 13, "gf": 60, "ga": 52, "gd": 8, "pts": 59, "form": "WLWDW" },
+    { "team": "瓦伦西亚", "played": 38, "win": 13, "draw": 12, "lose": 13, "gf": 48, "ga": 48, "gd": 0, "pts": 51, "form": "DWDLL" },
+    { "team": "塞维利亚", "played": 38, "win": 11, "draw": 13, "lose": 14, "gf": 46, "ga": 54, "gd": -8, "pts": 46, "form": "LDWDL" },
+    { "team": "赫罗纳", "played": 38, "win": 9, "draw": 10, "lose": 19, "gf": 44, "ga": 68, "gd": -24, "pts": 37, "form": "LLDLW" },
+    { "team": "格拉纳达", "played": 38, "win": 6, "draw": 10, "lose": 22, "gf": 34, "ga": 72, "gd": -38, "pts": 28, "form": "LLLLD" }
+  ],
+  "csl": [
+    { "team": "上海海港", "played": 24, "win": 18, "draw": 4, "lose": 2, "gf": 52, "ga": 20, "gd": 32, "pts": 58, "form": "WWWDW" },
+    { "team": "山东泰山", "played": 24, "win": 16, "draw": 5, "lose": 3, "gf": 48, "ga": 18, "gd": 30, "pts": 53, "form": "WWLWW" },
+    { "team": "上海申花", "played": 24, "win": 14, "draw": 6, "lose": 4, "gf": 42, "ga": 22, "gd": 20, "pts": 48, "form": "WDWWW" },
+    { "team": "北京国安", "played": 24, "win": 13, "draw": 6, "lose": 5, "gf": 40, "ga": 24, "gd": 16, "pts": 45, "form": "WWDLW" },
+    { "team": "成都蓉城", "played": 24, "win": 12, "draw": 8, "lose": 4, "gf": 38, "ga": 24, "gd": 14, "pts": 44, "form": "WDWWD" },
+    { "team": "武汉三镇", "played": 24, "win": 11, "draw": 6, "lose": 7, "gf": 36, "ga": 28, "gd": 8, "pts": 39, "form": "WLWDW" },
+    { "team": "浙江队", "played": 24, "win": 9, "draw": 8, "lose": 7, "gf": 30, "ga": 28, "gd": 2, "pts": 35, "form": "DWDLW" },
+    { "team": "河南队", "played": 24, "win": 7, "draw": 7, "lose": 10, "gf": 26, "ga": 32, "gd": -6, "pts": 28, "form": "LDDWL" },
+    { "team": "深圳新鹏城", "played": 24, "win": 4, "draw": 6, "lose": 14, "gf": 20, "ga": 44, "gd": -24, "pts": 18, "form": "LLDLL" },
+    { "team": "南通支云", "played": 24, "win": 3, "draw": 4, "lose": 17, "gf": 16, "ga": 54, "gd": -38, "pts": 13, "form": "LLLLL" }
+  ],
+  "nbaWest": [
+    { "team": "俄克拉荷马城雷霆", "played": 82, "win": 64, "lose": 18, "winRate": 78.0, "pf": 120.2, "pa": 109.8, "gd": 10.4, "streak": "5连胜" },
+    { "team": "丹佛掘金", "played": 82, "win": 60, "lose": 22, "winRate": 73.2, "pf": 118.5, "pa": 110.6, "gd": 7.9, "streak": "3连胜" },
+    { "team": "洛杉矶快船", "played": 82, "win": 56, "lose": 26, "winRate": 68.3, "pf": 116.4, "pa": 110.9, "gd": 5.5, "streak": "2连胜" },
+    { "team": "达拉斯独行侠", "played": 82, "win": 52, "lose": 30, "winRate": 63.4, "pf": 118.0, "pa": 114.1, "gd": 3.9, "streak": "1负" },
+    { "team": "明尼苏达森林狼", "played": 82, "win": 50, "lose": 32, "winRate": 61.0, "pf": 112.8, "pa": 107.5, "gd": 5.3, "streak": "2连胜" },
+    { "team": "菲尼克斯太阳", "played": 82, "win": 47, "lose": 35, "winRate": 57.3, "pf": 117.2, "pa": 115.6, "gd": 1.6, "streak": "1胜" },
+    { "team": "萨克拉门托国王", "played": 82, "win": 44, "lose": 38, "winRate": 53.7, "pf": 118.5, "pa": 117.8, "gd": 0.7, "streak": "1负" },
+    { "team": "洛杉矶湖人", "played": 82, "win": 41, "lose": 41, "winRate": 50.0, "pf": 113.6, "pa": 114.2, "gd": -0.6, "streak": "3连负" },
+    { "team": "金州勇士", "played": 82, "win": 39, "lose": 43, "winRate": 47.6, "pf": 115.5, "pa": 116.5, "gd": -1.0, "streak": "1胜" },
+    { "team": "休斯敦火箭", "played": 82, "win": 36, "lose": 46, "winRate": 43.9, "pf": 112.6, "pa": 115.8, "gd": -3.2, "streak": "2连负" }
+  ],
+  "nbaEast": [
+    { "team": "波士顿凯尔特人", "played": 82, "win": 66, "lose": 16, "winRate": 80.5, "pf": 121.5, "pa": 109.6, "gd": 11.9, "streak": "6连胜" },
+    { "team": "密尔沃基雄鹿", "played": 82, "win": 60, "lose": 22, "winRate": 73.2, "pf": 118.9, "pa": 112.8, "gd": 6.1, "streak": "4连胜" },
+    { "team": "费城76人", "played": 82, "win": 55, "lose": 27, "winRate": 67.1, "pf": 117.0, "pa": 112.2, "gd": 4.8, "streak": "2连胜" },
+    { "team": "纽约尼克斯", "played": 82, "win": 50, "lose": 32, "winRate": 61.0, "pf": 115.2, "pa": 111.8, "gd": 3.4, "streak": "1胜" },
+    { "team": "克利夫兰骑士", "played": 82, "win": 48, "lose": 34, "winRate": 58.5, "pf": 112.0, "pa": 108.8, "gd": 3.2, "streak": "2胜" },
+    { "team": "奥兰多魔术", "played": 82, "win": 45, "lose": 37, "winRate": 54.9, "pf": 110.8, "pa": 109.2, "gd": 1.6, "streak": "1负" },
+    { "team": "印第安纳步行者", "played": 82, "win": 42, "lose": 40, "winRate": 51.2, "pf": 117.8, "pa": 118.0, "gd": -0.2, "streak": "3连负" },
+    { "team": "迈阿密热火", "played": 82, "win": 40, "lose": 42, "winRate": 48.8, "pf": 109.6, "pa": 110.8, "gd": -1.2, "streak": "2连负" },
+    { "team": "布鲁克林篮网", "played": 82, "win": 35, "lose": 47, "winRate": 42.7, "pf": 111.0, "pa": 114.8, "gd": -3.8, "streak": "1负" },
+    { "team": "芝加哥公牛", "played": 82, "win": 33, "lose": 49, "winRate": 40.2, "pf": 109.8, "pa": 114.5, "gd": -4.7, "streak": "1胜" }
+  ],
+  "cba": [
+    { "team": "辽宁本钢", "played": 52, "win": 45, "lose": 7, "winRate": 86.5, "pf": 108.6, "pa": 97.8, "gd": 10.8, "streak": "8连胜" },
+    { "team": "浙江稠州金租", "played": 52, "win": 41, "lose": 11, "winRate": 78.8, "pf": 105.0, "pa": 97.0, "gd": 8.0, "streak": "5连胜" },
+    { "team": "新疆伊力特", "played": 52, "win": 38, "lose": 14, "winRate": 73.1, "pf": 106.2, "pa": 100.5, "gd": 5.7, "streak": "3连胜" },
+    { "team": "广东华南虎", "played": 52, "win": 36, "lose": 16, "winRate": 69.2, "pf": 107.0, "pa": 101.2, "gd": 5.8, "streak": "2胜" },
+    { "team": "上海久事", "played": 52, "win": 33, "lose": 19, "winRate": 63.5, "pf": 103.0, "pa": 99.2, "gd": 3.8, "streak": "1胜" },
+    { "team": "北京北汽", "played": 52, "win": 30, "lose": 22, "winRate": 57.7, "pf": 100.0, "pa": 96.8, "gd": 3.2, "streak": "1负" },
+    { "team": "浙江东阳光", "played": 52, "win": 28, "lose": 24, "winRate": 53.8, "pf": 101.2, "pa": 102.0, "gd": -0.8, "streak": "2连负" },
+    { "team": "青岛国信制药", "played": 52, "win": 25, "lose": 27, "winRate": 48.1, "pf": 102.6, "pa": 104.0, "gd": -1.4, "streak": "1胜" }
+  ],
+  "atp": [
+    { "player": "德约科维奇", "country": "🇷🇸 塞尔维亚", "age": 39, "points": 9850, "tournaments": 16, "best": 1 },
+    { "player": "阿尔卡拉斯", "country": "🇪🇸 西班牙", "age": 23, "points": 9420, "tournaments": 18, "best": 1 },
+    { "player": "辛纳", "country": "🇮🇹 意大利", "age": 25, "points": 8780, "tournaments": 19, "best": 2 },
+    { "player": "梅德韦杰夫", "country": "🇷🇺 俄罗斯", "age": 30, "points": 6520, "tournaments": 21, "best": 1 },
+    { "player": "鲁内", "country": "🇩🇰 丹麦", "age": 23, "points": 5840, "tournaments": 20, "best": 4 },
+    { "player": "卢布列夫", "country": "🇷🇺 俄罗斯", "age": 28, "points": 4890, "tournaments": 22, "best": 5 },
+    { "player": "兹维列夫", "country": "🇩🇪 德国", "age": 29, "points": 4780, "tournaments": 19, "best": 2 },
+    { "player": "纳达尔", "country": "🇪🇸 西班牙", "age": 40, "points": 4520, "tournaments": 14, "best": 1 },
+    { "player": "弗里茨", "country": "🇺🇸 美国", "age": 28, "points": 4120, "tournaments": 23, "best": 7 },
+    { "player": "胡尔卡奇", "country": "🇵🇱 波兰", "age": 29, "points": 3860, "tournaments": 22, "best": 8 }
+  ],
+  "wta": [
+    { "player": "斯瓦泰克", "country": "🇵🇱 波兰", "age": 25, "points": 9780, "tournaments": 17, "best": 1 },
+    { "player": "萨巴伦卡", "country": "🇧🇾 白俄罗斯", "age": 28, "points": 8860, "tournaments": 16, "best": 1 },
+    { "player": "高芙", "country": "🇺🇸 美国", "age": 22, "points": 7450, "tournaments": 19, "best": 2 },
+    { "player": "莱巴金娜", "country": "🇰🇿 哈萨克斯坦", "age": 27, "points": 6240, "tournaments": 17, "best": 3 },
+    { "player": "佩古拉", "country": "🇺🇸 美国", "age": 32, "points": 5680, "tournaments": 20, "best": 3 },
+    { "player": "奥斯塔彭科", "country": "🇱🇻 拉脱维亚", "age": 29, "points": 4780, "tournaments": 21, "best": 5 },
+    { "player": "保利尼", "country": "🇮🇹 意大利", "age": 29, "points": 4520, "tournaments": 22, "best": 6 },
+    { "player": "克雷吉茨科娃", "country": "🇨🇿 捷克", "age": 30, "points": 4210, "tournaments": 19, "best": 2 },
+    { "player": "斯维托丽娜", "country": "🇺🇦 乌克兰", "age": 31, "points": 3880, "tournaments": 18, "best": 3 },
+    { "player": "郑钦文", "country": "🇨🇳 中国", "age": 23, "points": 3540, "tournaments": 20, "best": 7 }
+  ],
+  "lpl": [
+    { "team": "JDG京东", "played": 18, "win": 16, "lose": 2, "winRate": 88.9, "netWin": 28, "form": "WWWWW" },
+    { "team": "BLG平安银行", "played": 18, "win": 15, "lose": 3, "winRate": 83.3, "netWin": 24, "form": "WLWWW" },
+    { "team": "LNG李宁", "played": 18, "win": 13, "lose": 5, "winRate": 72.2, "netWin": 18, "form": "WWLWW" },
+    { "team": "TES滔搏", "played": 18, "win": 12, "lose": 6, "winRate": 66.7, "netWin": 14, "form": "WDWWL" },
+    { "team": "WBG微博", "played": 18, "win": 10, "lose": 8, "winRate": 55.6, "netWin": 6, "form": "WLWDL" },
+    { "team": "EDG合创汽车", "played": 18, "win": 9, "lose": 9, "winRate": 50.0, "netWin": 0, "form": "DWDWL" },
+    { "team": "OMG", "played": 18, "win": 8, "lose": 10, "winRate": 44.4, "netWin": -3, "form": "LWDWL" },
+    { "team": "WE西安曲江", "played": 18, "win": 7, "lose": 11, "winRate": 38.9, "netWin": -8, "form": "LDLDW" },
+    { "team": "RNG星竞", "played": 18, "win": 6, "lose": 12, "winRate": 33.3, "netWin": -12, "form": "LLDWW" },
+    { "team": "iG", "played": 18, "win": 4, "lose": 14, "winRate": 22.2, "netWin": -20, "form": "LLLLW" }
+  ],
+  "kpl": [
+    { "team": "重庆狼队", "played": 20, "win": 17, "lose": 3, "winRate": 85.0, "netWin": 30, "form": "WWLWW" },
+    { "team": "武汉eStarPro", "played": 20, "win": 16, "lose": 4, "winRate": 80.0, "netWin": 26, "form": "WWWWW" },
+    { "team": "成都AG超玩会", "played": 20, "win": 14, "lose": 6, "winRate": 70.0, "netWin": 20, "form": "WLWWD" },
+    { "team": "北京WB", "played": 20, "win": 13, "lose": 7, "winRate": 65.0, "netWin": 14, "form": "WDWWL" },
+    { "team": "佛山DRG", "played": 20, "win": 11, "lose": 9, "winRate": 55.0, "netWin": 6, "form": "WDWLW" },
+    { "team": "苏州KSG", "played": 20, "win": 9, "lose": 11, "winRate": 45.0, "netWin": -2, "form": "LWDWL" },
+    { "team": "杭州LGD.NBW", "played": 20, "win": 8, "lose": 12, "winRate": 40.0, "netWin": -8, "form": "LLDWW" },
+    { "team": "上海RNG.M", "played": 20, "win": 5, "lose": 15, "winRate": 25.0, "netWin": -18, "form": "LLLLW" },
+    { "team": "厦门VG", "played": 20, "win": 4, "lose": 16, "winRate": 20.0, "netWin": -24, "form": "LLLLL" }
+  ],
+  "schedule": [
+    { "date": "08-06 03:00", "league": "欧冠决赛", "home": "皇家马德里", "away": "曼城", "round": "决赛", "venue": "伊斯坦布尔·阿塔图尔克", "status": "⏰ 未开赛" },
+    { "date": "08-06 08:30", "league": "NBA总决赛G6", "home": "凯尔特人", "away": "雷霆", "round": "总决赛G6", "venue": "TD花园球馆", "status": "⏰ 未开赛" },
+    { "date": "08-06 19:30", "league": "英超第1轮", "home": "曼城", "away": "切尔西", "round": "第1轮", "venue": "伊蒂哈德球场", "status": "⏰ 未开赛" },
+    { "date": "08-06 21:00", "league": "温网男单决赛", "home": "德约科维奇", "away": "阿尔卡拉斯", "round": "决赛", "venue": "全英俱乐部中心场", "status": "⏰ 未开赛" },
+    { "date": "08-07 19:35", "league": "中超第25轮", "home": "上海海港", "away": "山东泰山", "round": "第25轮", "venue": "浦东足球场", "status": "⏰ 未开赛" },
+    { "date": "08-07 20:00", "league": "LPL夏季赛", "home": "JDG", "away": "BLG", "round": "常规赛", "venue": "上海LPL主场", "status": "⏰ 未开赛" },
+    { "date": "08-07 21:00", "league": "西甲第1轮", "home": "皇马", "away": "马竞", "round": "第1轮", "venue": "伯纳乌球场", "status": "⏰ 未开赛" },
+    { "date": "08-08 19:00", "league": "KPL夏季赛总决赛", "home": "重庆狼队", "away": "武汉eStar", "round": "决赛BO7", "venue": "上海电竞中心", "status": "⏰ 未开赛" },
+    { "date": "08-09 10:00", "league": "美网女单R1", "home": "郑钦文", "away": "资格赛选手", "round": "第一轮", "venue": "纽约阿瑟阿什球场", "status": "⏰ 未开赛" },
+    { "date": "08-10 19:35", "league": "CBA季前热身赛", "home": "辽宁", "away": "广东", "round": "热身赛", "venue": "沈阳体育馆", "status": "⏰ 未开赛" }
+  ]
+}

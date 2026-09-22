@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>体育赛事榜单资讯站</title>
+<link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+<header class="header">
+  <div class="container header-inner">
+    <h1 class="logo">🏆 体育榜单资讯</h1>
+    <div class="header-actions">
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="搜索球队、赛事、球员...">
+        <button id="searchBtn">🔍</button>
+      </div>
+      <button id="themeToggle" class="theme-btn" title="切换主题">🌙</button>
+    </div>
+  </div>
+  <nav class="nav">
+    <div class="container nav-inner">
+      <button class="cat-btn active" data-tab="news">📰 资讯</button>
+      <button class="cat-btn" data-tab="football">⚽ 足球</button>
+      <button class="cat-btn" data-tab="basketball">🏀 篮球</button>
+      <button class="cat-btn" data-tab="tennis">🎾 网球</button>
+      <button class="cat-btn" data-tab="esports">🎮 电竞</button>
+      <button class="cat-btn" data-tab="schedule">📅 赛程</button>
+    </div>
+  </nav>
+</header>
+
+<main class="container main">
+  <div class="stats-bar">
+    <span id="totalCount">共 0 条</span>
+    <span id="lastUpdate">最后更新：--</span>
+  </div>
+
+  <div id="tab-news" class="tab-pane">
+    <div id="newsGrid" class="card-grid"></div>
+  </div>
+
+  <div id="tab-football" class="tab-pane" style="display:none;">
+    <div class="rank-wrap">
+      <h2 class="rank-title">🏆 英超联赛积分榜</h2>
+      <div class="table-wrap">
+        <table class="rank-table" id="eplTable"></table>
+      </div>
+      <h2 class="rank-title">🏆 西甲联赛积分榜</h2>
+      <div class="table-wrap">
+        <table class="rank-table" id="laligaTable"></table>
+      </div>
+      <h2 class="rank-title">🏆 中超联赛积分榜</h2>
+      <div class="table-wrap">
+        <table class="rank-table" id="cslTable"></table>
+      </div>
+    </div>
+  </div>
+
+  <div id="tab-basketball" class="tab-pane" style="display:none;">
+    <div class="rank-wrap">
+      <h2 class="rank-title">🏆 NBA 西部积分榜</h2>
+      <div class="table-wrap">
+        <table class="rank-table" id="nbaWest"></table>
+      </div>
+      <h2 class="rank-title">🏆 NBA 东部积分榜</h2>
+      <div class="table-wrap">
+        <table class="rank-table" id="nbaEast"></table>
+      </div>
+      <h2 class="rank-title">🏆 CBA 积分榜</h2>
+      <div class="table-wrap">
+        <table class="rank-table" id="cbaTable"></table>
+      </div>
+    </div>
+  </div>
+
+  <div id="tab-tennis" class="tab-pane" style="display:none;">
+    <div class="rank-wrap">
+      <h2 class="rank-title">🏆 ATP 男单世界排名</h2>
+      <div class="table-wrap">
+        <table class="rank-table" id="atpRank"></table>
+      </div>
+      <h2 class="rank-title">🏆 WTA 女单世界排名</h2>
+      <div class="table-wrap">
+        <table class="rank-table" id="wtaRank"></table>
+      </div>
+    </div>
+  </div>
+
+  <div id="tab-esports" class="tab-pane" style="display:none;">
+    <div class="rank-wrap">
+      <h2 class="rank-title">🏆 LPL 英雄联盟积分榜</h2>
+      <div class="table-wrap">
+        <table class="rank-table" id="lplTable"></table>
+      </div>
+      <h2 class="rank-title">🏆 KPL 王者荣耀积分榜</h2>
+      <div class="table-wrap">
+        <table class="rank-table" id="kplTable"></table>
+      </div>
+    </div>
+  </div>
+
+  <div id="tab-schedule" class="tab-pane" style="display:none;">
+    <div class="rank-wrap">
+      <h2 class="rank-title">📅 近期赛事赛程</h2>
+      <div class="table-wrap">
+        <table class="rank-table" id="scheduleTable"></table>
+      </div>
+    </div>
+  </div>
+
+  <div id="emptyState" class="empty-state" style="display:none;">
+    <p>😢 没有找到相关内容</p>
+  </div>
+  <div id="loadingState" class="loading-state">
+    <div class="spinner"></div>
+    <p>加载中...</p>
+  </div>
+</main>
+<script src="./js/app.js"></script>
+</body>
+</html>
